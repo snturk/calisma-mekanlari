@@ -13,6 +13,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 - [Ankara](#-ankara)
 - [Aydın](#-aydin)
 - [Bursa](#-bursa)
+- [Diyarbakır](#-diyarbakir)
 - [Isparta](#-isparta)
 - [İstanbul](#-i̇stanbul)
 - [İzmir](#-i̇zmir)
@@ -97,6 +98,13 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | ----------- | ------------------- | ------------ | ----------------------------- | ------ | ---------- | ---------------- | --------------------- | ---------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | FSM Bulvarı | Espresso Lab        | N/A          | Duvar kenarı masalarda mevcut | Mevcut | 30-40 Mbps | N/A              | 7/24 Açık             | N/A              | <https://goo.gl/maps/9Goepb6HFkPLF9897> | N/A                                                                                                                                  |
 | 23 Nisan    | Vitrin Coffee & Tea | Kahve, Yemek | Masa altlarında mevcut        | Mevcut | 30+ Mbps   | 2/10             | 09.00 a.m - 01.00 a.m | @vitrincoffee    | <https://goo.gl/maps/qYS7k5qqa5Xoo7CP6> | Garsonlar darlamıyor. Sessiz sakin. Klimalı. Kahve ve türevleri var. Dart, satranç ve tavla için oyun alanı mevcut. Fiyatlar normal. |
+
+## 📚 Diyarbakır
+
+| Konum | İsim | Kategoriler | Priz  | WIFI | WIFI Hızı | Gürültü Seviyesi | Çalışma Saatleri | Instagram Adresi | Harita | Notlar |
+| ----- | ---- | ----------- | ----- | ---- | --------- | ---------------- | ---------------- | ---------------- | ------ | ------ |
+| Forum Diyarbakır | Starbucks | Kahve, Atıştırmalık | İçerideki bütün masaların dibinde mevcut. | Mevcut | ~90 Mbps  | 5/10 | 10:00 - 22:00 | @starbuckstr | <https://maps.app.goo.gl/CACUao83YwENwWau7> | Müzik sesini azaltmayı rica edebiliyorsunuz. Klima konusunda hiçbir sorun yok hatta bazen kapattırmak zorunda kalınabiliyor. Hiçbir şey almayıp çalışabiliyorsunuz. |
+| Mezopotamya Caddesi | Starbucks | Kahve, Atıştırmalık | Sadece siparişin teslim edildiği yerin yanındaki duvar dibindeki masalarda mevcut. | Mevcut | ~180 Mbps  | 7/10 | 08:00 - 00:00 | @starbuckstr | <https://maps.app.goo.gl/nFwy1q1uimTd2wpN7> | Müzik sesini azaltmayı rica edebiliyorsunuz. Klima konusunda hiçbir sorun yok hatta bazen kapattırmak zorunda kalınabiliyor. Hiçbir şey almayıp çalışabiliyorsunuz. Masalar çok yakın olduğu için gürültü biraz fazla olabiliyor. |
 
 ## 📚 Aydin
 

@@ -91,6 +91,7 @@ Siz de bildiğiniz çalışma mekanlarını Pull Request açarak bu repository'e
 | Konyaaltı | Starbucks        | Kahve, Atıştırmalık | Çoğu masada mevcut     | Mevcut | ~90Mbps   | 2/10             | 08:00 - 23:30    | @starbuckstr     | <https://maps.app.goo.gl/D35717zuMJUzQotX8> | 2 katlı olduğu için üst katta çalışma fırsatı oluyor ve gelen insanlar genelde sessiz çalışıyor. Bu sebeple çok az gürültü oluyor. Ortam gayet temiz ve sakin. Toplu çalışmalar için büyük çalışma masası da mevcut. 4-5 arkadaş gidilebilir. |
 | Muratpaşa | Poe Coffee House | Cafe                | Çoğu masada mevcut     | Mevcut | 70 Mbps   | 2/10             | 09:00 - 00:00    | @poebookcoffee   | <https://maps.app.goo.gl/ADQ7ubvAYCLpZUoX6> | N/A    |
 | Muratpaşa | Başka Ol         | Kahve, Yemek        | Çoğu masada mevcut     | Mevcut | N/A       | 6/10             | 08:30 - 00:00    | @baska.ol        | <https://maps.app.goo.gl/uzGkSE2LWn9Jz4Zz7> | N/A    |
+| Konyaaltı | Starbucks        | Kahve, Atıştırmalık | Çoğu masada mevcut     | Mevcut | ~85Mbps   | 8/10             | 09:00 - 23:00    | @starbuckstr     | <https://maps.app.goo.gl/iuaiJLHp4KH8qcCV8> | N/A    |
 
 ## 📚 Bursa
 
